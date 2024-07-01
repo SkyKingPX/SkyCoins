@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "stoneattack:coin1"
+    },
+    {
+      "item": "stoneattack:coin1"
+    }
+  ],
+  "result": {
+    "item": "stoneattack:coin2",
+    "count": 1
+  }
+}

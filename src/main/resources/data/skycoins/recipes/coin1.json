@@ -1,0 +1,22 @@
+{
+  "type": "minecraftcrafting_shaped",
+  "pattern": [
+    "E#E",
+    "#I#",
+    "E#E"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "skycoins:coin1"
+  }
+}
