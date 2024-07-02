@@ -6,5 +6,7 @@ Recipe editing are planned as well as Fabric Support.
 To craft the first SkyCoin, you need to have these materials:
 
 > 4 Emeralds
+> 
 > 4 Diamonds
+> 
 > 1 Iron Block
