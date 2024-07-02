@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item:": "skycoins:coin2"
+      "item": "skycoins:coin2"
     }
   ],
   "result": {

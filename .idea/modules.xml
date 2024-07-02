@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SkyCoins.iml" filepath="$PROJECT_DIR$/.idea/modules/SkyCoins.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SkyCoins.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SkyCoins.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SkyCoins.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SkyCoins.test.iml" />
     </modules>
