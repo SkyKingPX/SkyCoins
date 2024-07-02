@@ -1,3 +1,3 @@
-#Would you like the Coin to be crafted or to be unique?
-disableCoin1Recipe = false
+# Would you like the Coin 1 to be crafted or to be unique?
+disableCoin1Recipe = true
 

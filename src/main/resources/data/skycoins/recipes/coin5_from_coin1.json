@@ -2,23 +2,23 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "stoneattack:coin1"
+      "item": "skycoins:coin1"
     },
     {
-      "item": "stoneattack:coin1"
+      "item": "skycoins:coin1"
     },
     {
-      "item": "stoneattack:coin1"
+      "item": "skycoins:coin1"
     },
     {
-      "item": "stoneattack:coin1"
+      "item": "skycoins:coin1"
     },
     {
-      "item": "stoneattack:coin1"
+      "item": "skycoins:coin1"
     }
   ],
   "result": {
-    "item": "stoneattack:coin5",
+    "item": "skycoins:coin5",
     "count": 1
   }
 }

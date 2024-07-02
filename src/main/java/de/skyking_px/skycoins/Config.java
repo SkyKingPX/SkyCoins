@@ -20,9 +20,10 @@ public class Config
 {
     private static final ForgeConfigSpec.Builder BUILDER = new ForgeConfigSpec.Builder();
 
-    private static final ForgeConfigSpec.BooleanValue DISABLE_COIN_RECIPE = BUILDER
-            .comment("Would you like the Coin to be crafted or to be unique?")
-            .define("disableCoin1Recipe", false);
+    //Planned for Version 2.0.0.0
+    /*private static final ForgeConfigSpec.BooleanValue DISABLE_COIN_RECIPE = BUILDER
+            .comment(" Would you like the Coin 1 to be crafted or to be unique?")
+            .define("disableCoin1Recipe", false);*/
 
     static final ForgeConfigSpec SPEC = BUILDER.build();
 
@@ -31,6 +32,6 @@ public class Config
     @SubscribeEvent
     static void onLoad(final ModConfigEvent event)
     {
-        disableCoinRecipe = DISABLE_COIN_RECIPE.get();
+        //disableCoinRecipe = DISABLE_COIN_RECIPE.get();
     }
 }

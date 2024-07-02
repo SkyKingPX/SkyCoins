@@ -5,6 +5,8 @@
       "item:": "skycoins:coin2"
     }
   ],
-  "result": "skycoins:coin1",
-  "count": 2
+  "result": {
+    "item": "skycoins:coin1",
+    "count": 2
+  }
 }
